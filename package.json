@@ -1,0 +1,30 @@
+{
+  "name": "ravikumar-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Ravikumar Kaipu - Full Stack Engineer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000 || python3 -m http.server 8000",
+    "dev": "npx http-server -p 8000 -o",
+    "preview": "npx http-server -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RavikumarKaipu/ravikumar-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "web-development",
+    "mern",
+    "mean",
+    "java",
+    "python"
+  ],
+  "author": "Ravikumar Kaipu <kravikumar9392@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RavikumarKaipu/ravikumar-portfolio/issues"
+  },
+  "homepage": "https://github.com/RavikumarKaipu/ravikumar-portfolio#readme"
+}
